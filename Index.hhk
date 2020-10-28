@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bienvenida/o">
+		<param name="Name" value="Serielovers">
+		<param name="Local" value="index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Informaci&oacute;n general">
+		<param name="Name" value="Serielovers">
+		<param name="Local" value="index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ranking Netflix">
+		<param name="Name" value="Netflix">
+		<param name="Local" value="netflix.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ranking HBO">
+		<param name="Name" value="HBO España">
+		<param name="Local" value="hbo.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ranking Amazon prime">
+		<param name="Name" value="Amazon prime">
+		<param name="Local" value="amazon.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

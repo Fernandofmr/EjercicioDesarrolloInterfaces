@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bienvenido/a">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Informaci&oacute;n web">
+			<param name="Local" value="index.html">
+			<param name="ImageNumber" value="2">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Plataformas de series">
+			<param name="ImageNumber" value="3">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Series de Netflix">
+				<param name="Local" value="netflix.html">
+				<param name="ImageNumber" value="4">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Series de HBO">
+				<param name="Local" value="hbo.html">
+				<param name="ImageNumber" value="4">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Series de Amazon prime">
+				<param name="Local" value="amazon.html">
+				<param name="ImageNumber" value="4">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>
